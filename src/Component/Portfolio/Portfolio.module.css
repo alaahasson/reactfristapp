@@ -1,0 +1,14 @@
+.portfolio
+{
+    padding: 96px 0px;
+}
+
+.card
+{
+    padding: 0px 24px !important;
+    margin-bottom: 48px !important;
+}
+.card img
+{
+    border-radius:10px ;
+}

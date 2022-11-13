@@ -1,0 +1,12 @@
+.line i
+{
+    color: #2C3E50 !important;
+}
+
+.line
+{
+    width: 150px;
+    height: 4px;
+    border-radius: 4px;
+    background-color: #2C3E50;
+}
